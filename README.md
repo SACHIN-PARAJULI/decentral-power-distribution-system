@@ -55,7 +55,7 @@ and the distributor has to be compensated for its service so the token's cost in
 
 # Run
 
-> git clone https://github.com/surajbeston/decentral-power-system <br />
+> git clone https://github.com/SACHIN-PARAJULI/decentral-power-distribution-system <br />
 > cd decentral-power-system && cd web <br />
 > npm install <br/>
 > npm run dev <br/>
